@@ -1,18 +1,24 @@
-# Open Trader
+# OpenTrader
 
-Open source crypto trading tools & bots.
+[OpenTrader](https://github.com/bludnic/opentrader) is an advanced cryptocurrency trading bot offering high-frequency, cross-exchange arbitrage and event-based strategies, including technical analysis with indicators. Features a user-friendly management UI, robust backtesting capabilities, and support for 100+ exchanges via CCXT.
 
-## Features
+- **✨ Robust UI:** A user-friendly interface for managing the bots.
+- **📊 Builtin Strategies:** Highly configurable trading strategies:
+  - **📈 GridBot Strategy:** Buy and sell at predefined intervals to profit from market fluctuations.
+  - **📉 RSI Strategy:** Place orders based on the RSI indicator value.
+- **🛠️ Custom Strategies:** Create your own strategy in a few lines of code (powered by an auto-generated UI).
+- **🌐 Multiple Exchanges:** Trade across various cryptocurrency exchanges.
+- **⚙️ Easy Installation:** Install effortlessly via NPM for a streamlined setup process.
 
-- [x] **GridBot**: Trading bot that executes the grid trading strategy.
-- [x] **Backtesting**: Run a simulation of your strategy.
-- [x] **WebUI:** Builtin web UI to manage your bots.
-- [x] **SmartTrading**: Buy smart / Sell smart.
-- [ ] **DCABot**: Dollar cost averaging bot (in development).
+<p align="center">
+  <a href="https://github.com/bludnic/opentrader#readme" title="Try the bot">
+    <img src="https://img.shields.io/badge/Try%20the%20bot-37a779?style=for-the-badge" alt="Try the bot" width="128" />
+  </a>
+</p>
 
-## Supported exchanges
+![UI Preview](https://github.com/bludnic/opentrader/raw/dev/.github/images/ui.png)
 
-- [x] Binance
-- [x] OKx
-- [ ] Gate.io
-- [ ] potentially many others
+# Contact 🌐
+
+- 📧 [E-mail](mailto:contact@opentrader.pro)
+- 💬 [Telegram](https://t.me/+cJLNxLSjcW83Njgy)
