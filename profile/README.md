@@ -21,5 +21,5 @@
 
 # Contact 🌐
 
-- 📧 [E-mail](mailto:contact@opentrader.pro)
+- 📧 [E-mail](mailto:opentraderpro@proton.me)
 - 💬 [Telegram](https://t.me/+cJLNxLSjcW83Njgy)
