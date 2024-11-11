@@ -4,7 +4,8 @@
 
 - **✨ Robust UI:** A user-friendly interface for managing the bots.
 - **📊 Builtin Strategies:** Highly configurable trading strategies:
-  - **📈 GridBot Strategy:** Buy and sell at predefined intervals to profit from market fluctuations.
+  - **📈 GridBot Strategy:** Make profits from market fluctuations by creating a grid of Buy/Sell orders.
+  - **📈 DCA Strategy:** Enters with multiple orders to average the entry price and sells on price swings.
   - **📉 RSI Strategy:** Place orders based on the RSI indicator value.
 - **🛠️ Custom Strategies:** Create your own strategy in a few lines of code (powered by an auto-generated UI).
 - **🌐 Multiple Exchanges:** Trade across various cryptocurrency exchanges.
