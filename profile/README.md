@@ -13,7 +13,7 @@
 - **⚙️ Easy Installation:** Install effortlessly via NPM for a streamlined setup process.
 
 <p align="center">
-  <a href="https://github.com/bludnic/opentrader#readme" title="Try the bot">
+  <a href="https://github.com/bludnic/opentrader" title="Try the bot">
     <img src="https://img.shields.io/badge/Try%20the%20bot-37a779?style=for-the-badge" alt="Try the bot" width="128" />
   </a>
 </p>
